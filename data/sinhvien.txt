@@ -1,0 +1,10 @@
+SV001,Nguyen Van An,8.5
+SV002,Tran Thi Binh,7.0
+SV003,Le Van Cuong,4.5
+SV004,Pham Thi Dung,9.0
+SV005,Hoang Van Minh,6.5
+SV006,Nguyen Van Nam,3.5
+SV007,Tran Van Hung,8.0
+SV008,Le Thi Hoa,5.5
+SV009,Do Van Long,4.0
+SV010,Vu Thi Mai,9.5
