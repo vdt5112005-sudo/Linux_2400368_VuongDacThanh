@@ -1,0 +1,19 @@
+Nguoi dung: ubuntu
+Ten may: tuan-vps
+Ngay gio: 2026-11-26 04:56:10
+Linux Kernel: 6.8.0-1054-oracle
+Dung luong RAM:
+               total        used        free      shared  buff/cache   available
+Mem:            23Gi        15Gi       867Mi       113Mi       6.8Gi       7.0Gi
+Swap:             0B          0B          0B
+Dung luong o dia:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           2.4G  4.0M  2.4G   1% /run
+efivarfs        256K  113K  143K  45% /sys/firmware/efi/efivars
+/dev/sda1       194G  127G   68G  66% /
+tmpfs            12G  8.0K   12G   1% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda15       98M  6.3M   92M   7% /boot/efi
+tmpfs           2.4G   20K  2.4G   1% /run/user/1001
+/dev/loop4      4.6G   75M  4.5G   2% /home/ubuntu/koreader-community/storage
+Co ket noi mang
